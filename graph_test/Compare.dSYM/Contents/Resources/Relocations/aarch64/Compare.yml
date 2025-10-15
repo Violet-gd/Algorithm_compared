@@ -1,0 +1,9 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/haichaoli/code/graph_test/Compare'
+relocations:
+  - { offset: 0x19, size: 0x8, addend: 0x0, symName: __Z7Q_rsqrtf, symObjAddr: 0x0, symBinAddr: 0x1000005B0, symSize: 0x8C }
+  - { offset: 0x20E9, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0xCC, symBinAddr: 0x10000067C, symSize: 0x174 }
+  - { offset: 0x21D5, size: 0x8, addend: 0x0, symName: __Z10differencefd, symObjAddr: 0x8C, symBinAddr: 0x10000063C, symSize: 0x40 }
+  - { offset: 0x2225, size: 0x8, addend: 0x0, symName: __Z7Q_rsqrtf, symObjAddr: 0x0, symBinAddr: 0x1000005B0, symSize: 0x8C }
+...
